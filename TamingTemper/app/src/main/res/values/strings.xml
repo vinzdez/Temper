@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TamingTemper</string>
+
+    <!--img description-->
+    <string name="user_icon">user icon</string>
+    <string name="journey">Journey</string>
+    <string name="legend_fire">journey</string>
+
+    <!--placeholder-->
+    <string name="taming_temper">Taming temper</string>
+    <string name="percent_default">3%</string>
+    <string name="temper_default">0</string>
+
+</resources>
